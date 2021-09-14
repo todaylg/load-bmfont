@@ -1,3 +1,4 @@
+const Buffer = require('buffer/').Buffer;
 var fs = require('fs')
 var url = require('url')
 var path = require('path')
