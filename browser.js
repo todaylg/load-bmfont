@@ -1,3 +1,4 @@
+const Buffer = require('buffer/').Buffer;
 var xhr = require('xhr')
 var noop = function(){}
 var parseASCII = require('parse-bmfont-ascii')
